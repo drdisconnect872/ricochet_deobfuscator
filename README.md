@@ -1,2 +1,2 @@
-# Ricochet Deobfuscator
-Remove obfuscated control flow of the ricochet anti-cheat driver from the obfuscated control flow.
+# ricochet_deobfuscator
+Deobfuscate obfuscated control flow of the ricochet anti cheat driver.
